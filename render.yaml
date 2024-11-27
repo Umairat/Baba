@@ -14,5 +14,5 @@ services:
     healthCheckPath: /
     #startCommand: npm start
     envVars:
-      - key: SESSION_ID
-        value: "YOUR_SESSION_ID"
+      - key:ANJU-MD=edVh0A4L#uWuCAVHUfvsi5cmI-b2TsdSYM7-l_FIgGYV2uV5oaLs
+        value: "ANJU-MD=edVh0A4L#uWuCAVHUfvsi5cmI-b2TsdSYM7-l_FIgGYV2uV5oaLs"
