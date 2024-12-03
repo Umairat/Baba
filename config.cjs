@@ -1,4 +1,4 @@
-module.exports = {
+module.exports = {ANJU-MD=SJ8nRQgB#BvDfOlGgBj_muezmzQsSetDpVGZaRapCc5aIko4vb10
   "ALIVE_IMG": "https://raw.githubusercontent.com/Niko-AND-Janiya/ANJU-DATA/refs/heads/main/WhatsApp%20Image%202024-09-08%20at%209.00.17%20PM.jpeg",
   "PREFIX": ".",
   "AUTO_READ_STATUS": true,
